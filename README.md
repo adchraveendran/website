@@ -1,1 +1,2 @@
 # website
+GemTrail is a lightweight tool that helps developers track and visualize project dependencies with ease. It provides a clear trail of gems and packages used in your application, making collaboration and maintenance smoother. With quick setup and simple commands, GemTrail generates reports that show your dependency tree, helping teams stay organized and ensuring projects remain transparent and easy to manage.
